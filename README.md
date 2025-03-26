@@ -1,0 +1,1 @@
+Clone/fork it into your github and open in vs code finally run "npm i inquirer qr-image fs" in the terminal also make sure you are in the place where you have cloned/forked it while running the command. finally you can edit the code in what ever manner you want.
